@@ -7,8 +7,7 @@
 -臭打游戏的（主打单机和联机合作）<br>
 -喜欢看二次元妹子贴贴<br>
 -厌世情绪蔓延中<br>
+-阴暗比 喜欢摸鱼<br>
+[个人主页](https://www.maonie.top/about/index3.html)<br>
 
-[个人主页](https://www.maonie.top/about/index3.html)
-
-
-没了 之后再加
+没了 之后再加<br>
