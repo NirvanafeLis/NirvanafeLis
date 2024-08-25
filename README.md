@@ -8,6 +8,9 @@
 -喜欢看二次元妹子贴贴<br>
 -厌世情绪蔓延中<br>
 -阴暗比 喜欢摸鱼<br>
+-明显网络玩太多了<br>
+-精神状态十分美妙<br>
+
 [个人主页](https://www.maonie.top/about/index3.html)<br>
 
 
