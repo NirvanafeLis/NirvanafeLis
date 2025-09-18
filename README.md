@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github.com/NirvanafeLis/NirvanafeLis/blob/main/static/vall.gif" alt="lain" style="max-width:100%;">
+      <img src="https://github.com/NirvanafeLis/NirvanafeLis/blob/main/static/vall.gif" alt="lain" style="max-width:60%;">
     </td>
     <td width="50%">
       <br/>
