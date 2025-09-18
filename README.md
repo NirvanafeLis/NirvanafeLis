@@ -4,10 +4,10 @@
       <img src="https://raw.githubusercontent.com/NirvanafeLis/NirvanafeLis/main/static/vall.gif" alt="lain" style="width:100%;">
     </td>
     <td style="flex: 1; padding: 20px;">
-      <table style="width: 100%;">
+      <table style="">
         <tr>
           <td style="text-align: center;">
-            <img src="https://i2.hdslb.com/bfs/article/da10dcc31988863ddc7224ab12d40c945b635a9a.png@960w_1280h.avif" alt="新图片描述" style="width:100%;">
+            <img src="https://i2.hdslb.com/bfs/article/da10dcc31988863ddc7224ab12d40c945b635a9a.png@960w_1280h.avif" alt="新图片描述" style="width:70%;">
           </td>
         </tr>
         <tr>
