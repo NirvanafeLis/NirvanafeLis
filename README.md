@@ -1,9 +1,9 @@
-<table>
-  <tr>
-    <td width="70%" style="vertical-align: top; padding: 20px;">
-      <img src="https://raw.githubusercontent.com/NirvanafeLis/NirvanafeLis/refs/heads/main/static/vall.gif" alt="lain" style="width:100%;">
+<table style="width:100%;">
+  <tr style="display: flex; align-items: stretch;">
+    <td style="flex: 1; padding: 20px;">
+      <img src="https://raw.githubusercontent.com/NirvanafeLis/NirvanafeLis/main/static/vall.gif" alt="lain" style="width:100%;">
     </td>
-    <td width="30%" style="vertical-align: top; padding: 20px;">
+    <td style="flex: 1; padding: 20px;">
       <table style="width: 100%;">
         <tr>
           <td style="text-align: center;">
