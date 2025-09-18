@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="50%" style="vertical-align: top; padding: 20px;">
+    <td width="70%" style="vertical-align: top; padding: 20px;">
       <img src="https://raw.githubusercontent.com/NirvanafeLis/NirvanafeLis/refs/heads/main/static/vall.gif" alt="lain" style="width:100%;">
     </td>
-    <td width="50%" style="vertical-align: top; padding: 20px;">
+    <td width="30%" style="vertical-align: top; padding: 20px;">
       <table style="width: 100%;">
         <tr>
           <td style="text-align: center;">
